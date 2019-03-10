@@ -1,1 +1,2 @@
-# Word2Vec_from_Scratch
+# word2vec_toolkit_keras
+This is my word2vec.
